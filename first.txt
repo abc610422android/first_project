@@ -1,4 +1,4 @@
 我的第一个github提交
-我的第一个github提交 my branch test
+我的第一个github提交 bug2 test
 
 
